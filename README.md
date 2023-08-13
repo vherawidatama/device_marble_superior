@@ -21,4 +21,4 @@ It was announced & released on March 2023.
 |                 Display | 1080 x 2400 pixels, 20:9 ratio, 6.67 inches, 30/60/90/120 hz, OLED |
 |                  Camera | 64MP (Primary), 8MP (Ultra-wide), 2MP (Macro)                      |
 
-![Redmi Note 12 Turbo](https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1679982565.12241762.png)
+![Redmi Note 12 Turbo](https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1679982565.12241762.png)# device_marble_superior
